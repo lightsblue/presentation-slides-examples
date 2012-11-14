@@ -1,0 +1,9 @@
+{
+  "amd": {},
+  "volo": {
+    "baseUrl": "www/js/lib",
+    "dependencies": {
+      "underscore": "github:amdjs/underscore/1.4.1"
+    }
+  }
+}
